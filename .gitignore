@@ -1,0 +1,11 @@
+.direnv/*
+.venv/*
+venv/*
+__pycache__/*
+*.pyc
+.env
+MASTER LIST.xlsx
+*.pickle
+*.vscode
+*.egg-info/
+.*.swp
