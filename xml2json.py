@@ -7,6 +7,7 @@ import json
 import click
 import xmltodict
 
+"""https://gist.github.com/WazeHell/68b27f254208f873863fa67db0dceefe"""
 def xml_to_json(xml, formatted):
     """convert xml to json"""
     with click.open_file(xml, encoding="utf-8") as xml_file:
