@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Nmap XML Output to Json Output in Python
+Map XML Output to Json Output in Python
 example : data = xml2json('nmap_output.xml')
 """
 import json
